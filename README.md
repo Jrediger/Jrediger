@@ -11,7 +11,7 @@
   <h2> 🤳 Connect with me:</h2>
 [linkedin} : https://www.linkedin.com/in/jacqueline-rediger/
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a Capstone for the housing market in Colorado
 
